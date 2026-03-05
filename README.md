@@ -171,18 +171,6 @@ Despite these limitations, the results demonstrate the advantages of attention-b
 
 ---
 
-# Future Improvements
-
-Potential extensions include:
-
-- Hyperparameter optimization
-- Deeper GNN architectures
-- Cross-validation across multiple dataset splits
-- Incorporating additional molecular features
-- Applying the models to larger drug discovery datasets
-
----
-
 # References
 
 Kipf & Welling (2017) — *Semi-Supervised Classification with Graph Convolutional Networks*
